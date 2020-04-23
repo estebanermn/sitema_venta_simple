@@ -1,0 +1,2 @@
+rootProject.name='sistema_ventas_simple'
+include ':app'
